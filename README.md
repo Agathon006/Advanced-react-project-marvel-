@@ -10,7 +10,7 @@ https://github.com/Agathon006/Advanced-react-project-marvel-/assets/64129058/288
 
 ---
 
-## Instruction for launching this project
+## Instruction for launching
 
 1. Install all needed dependencies:
    `npm install`
@@ -19,7 +19,7 @@ https://github.com/Agathon006/Advanced-react-project-marvel-/assets/64129058/288
 
 ---
 
-## Technologies used in the project
+## Technologies
 
 - HTML
 - CSS / SCSS
@@ -41,7 +41,7 @@ https://github.com/Agathon006/Advanced-react-project-marvel-/assets/64129058/288
 
 ---
 
-## APIs used in the project
+## APIs
 
 - [marvel](https://developer.marvel.com)
 
