@@ -43,5 +43,5 @@ https://github.com/Agathon006/Advanced-react-project-marvel-/assets/64129058/288
 
 ## APIs used in the project
 
-- [marvel]([https://api.unsplash.com](https://developer.marvel.com))
+- [marvel](https://developer.marvel.com)
 
